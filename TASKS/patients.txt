@@ -1,0 +1,15 @@
+Alice Brown,30,Burn Scars,101
+Mark Taylor,45,Heart Issues,102
+Emily Davis,25,Migraine,103
+Alice Brown,30,Burn Scars,101
+Mark Taylor,45,Heart Issues,102
+Emily Davis,25,Migraine,103
+Alice Brown,30,Burn Scars,101
+Mark Taylor,45,Heart Issues,102
+Emily Davis,25,Migraine,103
+Alice Brown,30,Burn Scars,101
+Mark Taylor,45,Heart Issues,102
+Emily Davis,25,Migraine,103
+Alice Brown,30,Burn Scars,101
+Mark Taylor,45,Heart Issues,102
+Emily Davis,25,Migraine,103
